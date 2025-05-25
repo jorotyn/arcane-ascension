@@ -1,6 +1,6 @@
-# Arcane Ascendance - Idle Magic RPG
+# Arcane Ascension - Idle Magic RPG
 
-Welcome, aspiring mage, to Arcane Ascendance! Embark on an epic journey to master diverse and powerful schools of magic. Passively train your skills, gather arcane resources, manage your vital mana, and equip mighty gear to enhance your abilities. Delve into a rich magical world that continues to progress even when you're away.
+Welcome, aspiring mage, to Arcane Ascension! Embark on an epic journey to master diverse and powerful schools of magic. Passively train your skills, gather arcane resources, manage your vital mana, and equip mighty gear to enhance your abilities. Delve into a rich magical world that continues to progress even when you're away.
 
 ## ✨ Features
 
@@ -14,7 +14,7 @@ Welcome, aspiring mage, to Arcane Ascendance! Embark on an epic journey to maste
 *   **🛡️ Forge Your Legend with Gear:** Equip yourself with powerful magical Gear! Find and wear enchanted hats, robes, wands, amulets, rings, and more. Discover items of varying rarities – Common, Uncommon, Rare, Epic, and Legendary. Some ancient relics may start **Unidentified**, their true powers hidden until you reveal them.
 *   **🧩 Unlock Powerful Item Sets:** Unleash hidden potential by collecting and equipping Item Sets. Matching pieces grant extraordinary bonuses, further empowering your mage.
 *   **⚔️ Test Your Might in Magical Trials:** Engage in challenging combat encounters against various foes. Strategize with your learned spells, defeat your enemies, and claim valuable loot and experience.
-*   **⏳ Progress While You Rest:** Your magical pursuits never cease! Arcane Ascendance respects your time by continuing to train your skills and gather resources even when you're not playing. Return to a summary of your offline achievements.
+*   **⏳ Progress While You Rest:** Your magical pursuits never cease! Arcane Ascension respects your time by continuing to train your skills and gather resources even when you're not playing. Return to a summary of your offline achievements.
 *   **🔔 Stay Informed:** Receive in-game notifications that alert you to level-ups, new items, mana status, and other important magical events.
 
 ## 🚀 How to Play
@@ -31,7 +31,7 @@ Welcome, aspiring mage! Your path to arcane mastery involves:
 
 ## 🌟 What's Next? (Our Vision)
 
-The world of Arcane Ascendance is ever-expanding. Here's a glimpse of what we're dreaming up:
+The world of Arcane Ascension is ever-expanding. Here's a glimpse of what we're dreaming up:
 
 *   Even deeper specialization with **Advanced Mastery Trees** for every spell and craft.
 *   Reach the pinnacle of power and undergo **Archmage Trials** – an ascension system granting permanent global boosts.
@@ -46,7 +46,7 @@ The world of Arcane Ascendance is ever-expanding. Here's a glimpse of what we're
 
 ## 🎮 Getting Started
 
-    Play Arcane Ascendance now at: https://jorotyn.github.io/arcane-ascension/
+    Play Arcane Ascension now at: https://jorotyn.github.io/arcane-ascension/
 
 ## 💬 Feedback & Community
 
