@@ -46,7 +46,7 @@ The world of Arcane Ascension is ever-expanding. Here's a glimpse of what we're 
 
 ## 🎮 Getting Started
 
-    Play Arcane Ascension now at: https://jorotyn.github.io/arcane-ascension/
+Play Arcane Ascension now at: https://jorotyn.github.io/arcane-ascension/
 
 ## 💬 Feedback & Community
 
